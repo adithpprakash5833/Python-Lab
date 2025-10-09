@@ -1,0 +1,6 @@
+print("Age guessing!!!")
+print("")
+ag=int(input("enter your age:"))
+print("Please wait...")
+print("Working on it..")
+print("Here you go,Your age is:",ag)
